@@ -1,7 +1,7 @@
 # Patient Management System
-## Backend App
+## Backend API
 
-## Node.js + Typescript + Mongoose Backend API
+## Node.js + Typescript + Mongoose
 This is a Node.js backend API that provides endpoints for managing users.
 We used dependencies injection with using a hashmap 
 
